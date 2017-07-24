@@ -1,3 +1,13 @@
+// * Create List and Task models with auto-incrementing ID's
+// * Way to create the models through DOM events
+// * Some controllers to handle business logic and rendering
+// * Update the DOM appropriately when models change
+// * Functionality:
+//   * add List
+//   * add Task to List
+//   * remove List (what happens to Tasks?)
+//   * remove individual Task
+
 describe("Task Model", function() {
 
   describe("Instance Properties", function() {
